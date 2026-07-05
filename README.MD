@@ -4,7 +4,7 @@ Projeto de desenho interativo desenvolvido como parte do currículo
 The Odin Project — Foundations.
 
 ## Demo
-[Ver projeto ao vivo](https://rikkyers.github.io/etch-a-sketch)
+[Ver projeto ao vivo](https://rikkyrs.github.io/Etch-a-Sketch)
 
 ## Como usar
 - Passe o mouse sobre a grade para desenhar
